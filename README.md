@@ -1,1 +1,15 @@
 # Python_GUI_Login_Signup_System
+
+
+# Bu proenin temel amacı python GUI ile tkinter kütüphanesini de kullanarak bir arayüz oluşturmaktır. bu arayğz birçok website girişinde karşımıza çıkan giriş yap kaydol ekranından esinlenerek yapılmıştır. Sistem temelde arka plandaki txt dosyasından verileri çekerek çalışmaktadır. Dosyada tanımlı kullanıcı adı ve parola ile giriş yapıldığına başarılı giriş uyarısı verirken, herhangi bir karakter yanlış girildiğinde yanlış şifre veya kullanıcı adı uyarısı vermketedir. Ek olarak güvenlik göz önünde bulundurularak şifre ekranına girişlerde karakter *** sembolleri ile gizlenmektedir. Eğer ki kullanıcı sisteme kayıt olmak istediğinde "Sign Up" butonuna basar ve yeni bir sekme açılır. Buraya gireceği kullanıcı adı ve parola ile sisteme kaydı sağlanır ve ekranda da bilgi mesajınını kullanıcı görüntüleyebilir. Başarılı bir giriş veya naşarısız girişten sonra sistem otomatik olarak kullanıcı adı ve şifre giriş bölümündeki tüm karakterleri silmektedir.
+
+
+
+# The main purpose of this project is to create an interface using the python GUI and the tkinter library. this interface is inspired by the sign in sign up screen that appears in many website entries. The system basically works by pulling the data from the txt file in the background. It gives a successful login warning when you log in with the user name and password defined in the file. If any character is entered incorrectly, it gives an incorrect password or user name warning. In addition, considering security, the character is hidden with *** symbols when entering the password screen. If the user wants to register to the system, he presses the "Sign Up" button and a new tab opens. The user is registered to the system with the username and password to be entered here, and the user can view the information message on the screen. After a successful login or unsuccessful login, the system automatically deletes all characters in the username and password input section.
+
+
+
+# Der Hauptzweck dieses Projekts besteht darin, eine Schnittstelle mit der Python-GUI und der tkinter-Bibliothek zu erstellen. Diese Benutzeroberfläche ist vom Anmeldebildschirm inspiriert, der in vielen Website-Einträgen angezeigt wird. Das System funktioniert im Grunde, indem es die Daten aus der txt-Datei im Hintergrund zieht. Es gibt eine erfolgreiche Anmeldewarnung, wenn Sie sich mit dem in der Datei definierten Benutzernamen und Passwort anmelden.Wenn ein Zeichen falsch eingegeben wird, gibt es eine Warnung für ein falsches Passwort oder einen falschen Benutzernamen. Darüber hinaus wird das Zeichen aus Sicherheitsgründen beim Aufrufen des Passwortbildschirms mit ***-Symbolen ausgeblendet. Wenn der Benutzer sich im System registrieren möchte, drückt er auf die Schaltfläche „Sign Up“ und es öffnet sich ein neuer Tab. Der Benutzer wird mit dem hier einzugebenden Benutzernamen und Passwort im System registriert, und der Benutzer kann die Informationsnachricht auf dem Bildschirm anzeigen. Nach erfolgreicher oder erfolgloser Anmeldung löscht das System automatisch alle Zeichen im Eingabebereich für Benutzername und Passwort.
+
+
+
